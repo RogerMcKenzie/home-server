@@ -1,0 +1,18 @@
+# Local OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Credentials and machine-local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Large local originals and backups
+originals/
+backups/
+*.bak
+*.tmp
