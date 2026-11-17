@@ -4,7 +4,7 @@ Documentation for my personal home server: hardware, setup, services, costs, and
 
 ## Hardware
 
-I am using the server from this [eBay listing](https://www.ebay.com/itm/206674341276).
+For the server, I am using this micro PC: OptiPlex 3060 Micro Mini PC Core i3-8100T
 
 The listing is the hardware reference. Exact model, processor, RAM, and storage specifications have not yet been transcribed or verified in this repository.
 
