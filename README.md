@@ -4,9 +4,7 @@ Documentation for my personal home server: hardware, setup, services, costs, and
 
 ## Hardware
 
-For the server, I am using this micro PC: OptiPlex 3060 Micro Mini PC Core i3-8100T
-
-The listing is the hardware reference. Exact model, processor, RAM, and storage specifications have not yet been transcribed or verified in this repository.
+My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-8100T processor. Using parts salvaged from a heavily damaged Windows laptop that was no longer viable as a standalone server, I upgraded the base 8GB of DDR4 memory and 256GB SATA SSD by installing a matching memory module and a 512GB M.2 NVMe drive in the open expansion slots. This brings the system to 16GB of total RAM and 768GB of combined storage.
 
 ## Documentation
 
