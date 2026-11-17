@@ -1,7 +1,4 @@
 item,model_or_specification,quantity,unit_cost_usd,total_cost_usd,status,source,notes
-Computer,Dell OptiPlex Micro candidate,,,,Unconfirmed,,Confirm exact model and ownership
-External storage,To confirm,,,,Unconfirmed,,
-Station material,To choose,,,,Not selected,,
-Fasteners or brackets,To choose,,,,Not selected,,
-Cable management,To choose,,,,Not selected,,
-Feet or pads,To choose,,,,Not selected,,
+Home server,Specifications to record,1,,,Selected,https://www.ebay.com/itm/206674341276,User-confirmed server; record actual price
+External storage,To record if used,,,,Unconfirmed,,
+Other accessories,To record if used,,,,Unconfirmed,,

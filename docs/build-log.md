@@ -2,17 +2,15 @@
 
 ## Initial planning
 
-**Status:** Documentation scaffold created. Hardware inventory, dimensions, purchases, assembly, and tests remain pending.
+**Status:** Repository created; server identified by its [eBay listing](https://www.ebay.com/itm/206674341276). Specifications and setup details remain to be recorded.
 
-**Concept:** A compact station that organizes a small server, external storage, power supplies, and cables while preserving cooling and access.
+**Goal:** Document my home-server hardware, configuration, services, costs, and progress.
 
-**Next action:** Confirm the exact equipment, measure it, and photograph the starting setup.
+**Next action:** Record the server specifications and photograph the starting setup.
 
 ---
 
 ## Entry template
-
-Copy this section for each work session, replacing the placeholders.
 
 ### YYYY-MM-DD — Session title
 
@@ -20,13 +18,15 @@ Copy this section for each work session, replacing the placeholders.
 
 **Work completed:**
 
-**Photos / drawings:** Link relative files, for example `../photos/01-inventory/filename.jpg`.
+**Photos:** Link files under `../photos/`.
+
+**Configuration changes:**
 
 **Decisions and reasons:**
 
-**Measurements / observations:**
+**Checks and observations:**
 
-**Problems and changes:**
+**Problems and fixes:**
 
 **Time spent / money spent:**
 

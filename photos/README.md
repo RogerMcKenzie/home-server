@@ -1,16 +1,11 @@
-# Build photos
+# Photos
 
-Add photos as the build progresses:
+Add photos of the server, connected equipment, and setup as the project progresses.
 
-- `01-inventory/`: Starting setup and equipment.
-- `02-mockup/`: Cardboard fit mockup and cable routing.
-- `03-assembly/`: Materials, construction, and revisions.
-- `04-finished/`: Finished station, ports, and service access.
-
-Use descriptive filenames such as `2026-11-16-starting-setup.jpg`. Embed photos in the build log with Markdown, for example:
+Use descriptive filenames, such as `server-front.jpg` or `storage-setup.jpg`, and link them from the build log:
 
 ```markdown
-![Cardboard mockup showing rear cable clearance](../photos/02-mockup/rear-clearance.jpg)
+![Home server and connected storage](../photos/storage-setup.jpg)
 ```
 
-Before uploading, check images for visible passwords, Wi-Fi QR codes, serial numbers, addresses, and personal information. Keep original large photos outside the repo and upload reasonably sized copies.
+Check photos for visible passwords, Wi-Fi QR codes, serial numbers, addresses, and personal information before uploading. Keep large original photos outside the repository.

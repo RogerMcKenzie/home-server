@@ -1,31 +1,17 @@
-# Build validation
+# Setup and service checks
 
-**Status:** Not tested. Fill this in with observed results after hardware and layout are confirmed.
-
-## Physical checks
+**Status:** Pending. Record actual results as the server is configured.
 
 | Check | Result | Evidence / follow-up |
 | --- | --- | --- |
-| Equipment fits securely | Pending | — |
-| Station is stable in its intended location | Pending | — |
-| Required ports and buttons are accessible | Pending | — |
-| Cables are not pinched or strained | Pending | — |
-| Intake and exhaust are unobstructed | Pending | — |
-| Drives and adapters can be serviced | Pending | — |
+| Server boots successfully | Pending | — |
+| Hardware specifications recorded | Pending | — |
+| Operating system and version documented | Pending | — |
+| Network access works | Pending | — |
+| Configured storage is available | Pending | — |
+| Installed services work as expected | Pending | — |
+| Backup and restore tested, if configured | Pending | — |
 
-## Thermal comparison
+## Results and lessons learned
 
-Record an unenclosed baseline first, then repeat with the finished station using the same hardware configuration, workload, and duration. Record room temperature and the sensor/tool used. Set acceptance criteria from the actual equipment specifications before testing.
-
-| Condition | Room temp (°C) | Workload / duration | CPU idle / peak (°C) | Drive idle / peak (°C) | Throttling / errors | Tool / sensor |
-| --- | --- | --- | --- | --- | --- | --- |
-| Unenclosed baseline | — | — | — | — | — | — |
-| Finished station | — | — | — | — | — | — |
-
-## Findings
-
-- Acceptance criteria and source: Pending.
-- Observed temperature change: Pending.
-- Noise observations: Pending.
-- Changes needed: Pending.
-- Final assessment: Pending.
+Record the date, what was checked, what happened, and any follow-up needed.

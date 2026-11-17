@@ -1,32 +1,24 @@
 # Project brief
 
-## Intended use
+## Goal
 
-Organize a small home server, external storage, power supplies, and cables into one compact station.
+Set up and maintain a personal home server, documenting the hardware, configuration, services, and what I learn along the way.
 
-## Requirements
+## Hardware source
 
-- Keep all equipment within its documented operating conditions.
-- Leave intake and exhaust paths unobstructed.
-- Allow access to power, networking, USB, and other needed ports.
-- Allow drives and cables to be removed without dismantling the whole station.
-- Support the equipment securely and protect cables from sharp edges and tight bends.
-- Keep costs and the footprint appropriate for the available space.
+The server I am using is from this [eBay listing](https://www.ebay.com/itm/206674341276). Exact specifications remain to be recorded from the machine or listing.
 
-## To confirm before designing
+## Next decisions
 
-- Exact computer model, configuration, and orientation allowed by its manufacturer.
-- Number and type of external drives.
-- Available desk or shelf dimensions and intended placement.
-- Budget, available tools, and preferred materials.
-- Whether the design is an open shelf, stand, or enclosure.
+- Operating system and installation method.
+- Storage and backup approach.
+- First services to install.
+- How I will access and maintain the server.
 
 ## Decision record
 
-| Date | Decision | Reason | Evidence or drawing |
-| --- | --- | --- | --- |
-| Pending | Choose final equipment and layout | Awaiting inventory and measurements | — |
-
-## Scope
-
-Start with the physical station. Document server services separately as they are deployed; do not let software setup delay the first physical prototype.
+| Decision | Reason | Status |
+| --- | --- | --- |
+| Use the server linked above | User-confirmed hardware | Selected |
+| Operating system | To decide | Pending |
+| First services | To decide | Pending |
