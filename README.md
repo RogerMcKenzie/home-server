@@ -6,6 +6,17 @@ Documentation for my personal home server: hardware, setup, services, costs, and
 
 My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-8100T processor. Using parts salvaged from a heavily damaged Windows laptop that was no longer viable as a standalone server, I upgraded the base 8GB of DDR4 memory and 512GB SATA SSD by installing a matching memory module and a 512GB M.2 NVMe drive in the open expansion slots. This brings the system to 16GB of total RAM and 1TB of combined storage.
 
+### Hardware photos
+
+<p>
+  <a href="photos/IMG_7301.JPG"><img src="photos/IMG_7301.JPG" width="46%" alt="Open Dell OptiPlex 3060 Micro showing the motherboard, M.2 drive, RAM, and cooling fan"></a>
+  <a href="photos/IMG_7310.JPG"><img src="photos/IMG_7310.JPG" width="46%" alt="Open Dell OptiPlex 3060 Micro with the 512 GB SATA SSD in place"></a>
+</p>
+<p>
+  <a href="photos/IMG_7305.JPG"><img src="photos/IMG_7305.JPG" width="46%" alt="Close-up of the M.2 NVMe SSD and its mounting adapter"></a>
+  <a href="photos/IMG_7307.JPG"><img src="photos/IMG_7307.JPG" width="46%" alt="Close-up of the two DDR4 memory modules beneath the CPU cooling fan"></a>
+</p>
+
 ## Documentation
 
 | File or folder | What belongs there |
