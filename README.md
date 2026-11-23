@@ -31,10 +31,10 @@ My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-81
 ## Milestones
 
 - [x] Identify the server being used and link its listing.
-- [ ] Record the server specifications and connected equipment.
-- [ ] Photograph the starting setup.
-- [ ] Choose and document the operating system.
-- [ ] Set up the server and document installed services.
+- [x] Record the server specifications and connected equipment.
+- [x] Photograph the starting setup.
+- [x] Choose and document the operating system.
+- [x] Set up the server and document installed services.
 - [ ] Check access, storage, and backups as they are configured.
 - [ ] Record costs, results, and lessons learned.
 
