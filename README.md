@@ -26,6 +26,7 @@ My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-81
 | [Parts and costs](docs/bill-of-materials.csv) | Equipment, quantities, and actual costs |
 | [Build log](docs/build-log.md) | Dated progress, photos, problems, and next steps |
 | [Validation](docs/validation.md) | Setup and service checks |
+| [Services and known issues](docs/services.md) | Running services, auto-updates, and open hardware problems |
 | [Photos](photos/README.md) | Hardware and setup photos |
 
 ## Milestones
