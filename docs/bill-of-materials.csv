@@ -1,6 +1,9 @@
 item,model_or_specification,quantity,unit_cost_usd,total_cost_usd,status,source,notes
 Base server,Dell OptiPlex 3060 Micro — i3-8100T / 8GB / 256GB SSD / W11 Pro (used),1,96.74,96.74,Purchased,eBay (seller nova.supply),"Delivered 2026-11-20; order 21-15398-07007. Upgraded after purchase."
-RAM upgrade,+8GB DDR4 module (to 16GB total),1,0.00,0.00,Installed,Salvaged,From a damaged laptop; no cost
+SATA SSD,512GB 2.5in SATA III (Lufasnd NS-S01),1,54.45,54.45,Purchased,Amazon,Black Friday deal price
 NVMe drive,512GB M.2 NVMe,1,0.00,0.00,Installed,Salvaged,From a damaged laptop; no cost
+RAM upgrade,+8GB DDR4 module (to 16GB total),1,0.00,0.00,Installed,Salvaged,From a damaged laptop; no cost
+AC adapter,90W AC adapter for Dell OptiPlex Micro (IBATTS),1,17.99,17.99,Purchased,Amazon,Power supply
+VESA mount,Mini PC wall/under-desk mount for Dell OptiPlex Micro (Varghesyla),1,23.99,23.99,Purchased,Amazon,Includes mounting hardware
 CMOS battery,Duracell CR2032 3V (2-count),1,3.36,3.36,Purchased,Amazon,"Ordered 2026-11-22; order 111-0435571-4149865. Replaces the dead CMOS battery."
-,,,,100.10,Total,,Running total of actual money spent
+,,,,196.53,Total,,Running total of actual money spent
