@@ -31,16 +31,19 @@ My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-81
 
 ## Costs
 
-Running total of actual money spent: **$100.10**. Full line items in
+Running total of actual money spent: **$196.53**. Full line items in
 [Parts and costs](docs/bill-of-materials.csv).
 
 | Item | Cost | Notes |
 | --- | --- | --- |
 | Dell OptiPlex 3060 Micro (used) | $96.74 | i3-8100T, bought as 8 GB / 256 GB |
-| RAM +8 GB (to 16 GB) | Free | Salvaged |
+| 512 GB SATA SSD | $54.45 | Black Friday deal |
 | 512 GB NVMe | Free | Salvaged |
+| RAM +8 GB (to 16 GB) | Free | Salvaged |
+| 90 W AC adapter | $17.99 | Power supply |
+| VESA mount | $23.99 | Wall / under-desk |
 | CMOS battery (CR2032) | $3.36 | Replaces the dead cell |
-| **Total** | **$100.10** | |
+| **Total** | **$196.53** | |
 
 ## Milestones
 
