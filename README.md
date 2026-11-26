@@ -29,6 +29,22 @@ My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-81
 | [Services and known issues](docs/services.md) | Running services, auto-updates, and open hardware problems |
 | [Photos](photos/README.md) | Hardware and setup photos |
 
+## Costs
+
+Running total of actual money spent: **$196.53**. Full line items in
+[Parts and costs](docs/bill-of-materials.csv).
+
+| Item | Cost | Notes |
+| --- | --- | --- |
+| Dell OptiPlex 3060 Micro (used) | $96.74 | i3-8100T, bought as 8 GB / 256 GB |
+| 512 GB SATA SSD | $54.45 | Black Friday deal |
+| 512 GB NVMe | Free | Salvaged |
+| RAM +8 GB (to 16 GB) | Free | Salvaged |
+| 90 W AC adapter | $17.99 | Power supply |
+| VESA mount | $23.99 | Wall / under-desk |
+| CMOS battery (CR2032) | $3.36 | Replaces the dead cell |
+| **Total** | **$196.53** | |
+
 ## Milestones
 
 - [x] Identify the server being used and link its listing.
@@ -37,7 +53,7 @@ My home server runs on a Dell OptiPlex 3060 Micro powered by an Intel Core i3-81
 - [x] Choose and document the operating system.
 - [x] Set up the server and document installed services.
 - [ ] Check access, storage, and backups as they are configured.
-- [ ] Record costs, results, and lessons learned.
+- [x] Record costs. (Results and lessons learned ongoing.)
 
 ## How I document progress
 
